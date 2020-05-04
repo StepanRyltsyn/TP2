@@ -1,0 +1,6 @@
+﻿  Source.cpp
+c:\users\hp\source\repos\тп2\тп2\source.cpp(25): warning C4101: l3: неиспользованная локальная переменная
+  Stack.cpp
+c:\users\hp\source\repos\тп2\тп2\stack.cpp(24): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+  Создание кода...
+  ТП2.vcxproj -> C:\Users\hp\source\repos\ТП2\Debug\ТП2.exe
